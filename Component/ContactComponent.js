@@ -28,7 +28,7 @@ class contact extends Component {
             title = "Contact Information"
             wrapperStyle={{margin: 20}}>
                 <Text style = {{marginBottom: 10}}>
-                    1 Nucamp Way
+                    1 Animal Way
                 </Text>
                 <Text>
                     Phone Number: 818-515-0364
