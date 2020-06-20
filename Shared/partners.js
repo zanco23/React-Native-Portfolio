@@ -1,30 +1,30 @@
 export const PARTNERS = [
     {
         id: 0,
-        name: "Bootstrap Outfitters",
+        name: "Lion Outfitters",
         image: "/assets/images/bootstrap-logo.png",
         featured: false,
-        description: "Bootstrap Outfitters supplies you with the gear you need at prices you can't beat."
+        description: "Lion Outfitters supplies your pets with the gear they need at prices you can't beat."
     },
     {
         id: 1,
-        name: "Git Out Expeditions",
+        name: "Shark Expeditions",
         image: "/assets/images/git-logo.png",
         featured: false,
-        description: "Join Git Out Expeditions to explore new horizons with a group of other adventurers!"
+        description: "Let your pets join Shark Expeditions to explore new horizons with a group of other adventurers!"
     },
     {
         id: 2,
-        name: "Mongo Fly Shop",
+        name: "Fly Shop",
         image: "/assets/images/mongo-logo.png",
         featured: false,
-        description: "Need a new fishing pole, a tacklebox, or flies of all kinds? Stop by Mongo Fly Shop."
+        description: "Need a new fishing pole, a tacklebox, or flies of all kinds? Stop by Fly Shop."
     },
     {
         id: 3,
-        name: "Node Outdoor Apparel",
+        name: "Pandas Outdoor Apparel",
         image: "/assets/images/node-logo.png",
         featured: true,
-        description: "From polar fleeces to swimsuits, hiking boots to waders, a visit to Node will be sure to get you covered."
+        description: "From polar fleeces to swimsuits, hiking boots to waders for your pet, a visit to Pandas will be sure to get you covered."
     }
 ]

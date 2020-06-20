@@ -1,15 +1,15 @@
 export const CAMPSITES = [
     {
         id: 0,
-        name: "React Lake Campground",
+        name: "Dog Lake Daycare",
         image: "/assets/images/react-lake.jpg",
         elevation: 1233,
         featured: false,
-        description: "Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers."
+        description: "Nestled in the foothills of the Chrome Mountains, this animal daycare on the shores of the pristine Lake is a favorite for fly fishers."
     },
     {
         id: 1,
-        name:"Chrome River Campground ",
+        name:"Cat River Daycare",
         image: "/assets/images/chrome-river.jpg",
         elevation: 877,
         featured: false,
@@ -17,18 +17,18 @@ export const CAMPSITES = [
     },
     {
         id: 2,
-        name:"Breadcrumb Trail Campground",
+        name:"Sloth Trail Daycare",
         image: "/assets/images/breadcrumb-trail.jpg",
         elevation: 2901,
         featured: false,
-        description: "Let NuCamp be your guide to this off-the-beaten-path, hike-in-only campground."
+        description: "Let Sloths be your guide to this off-the-beaten-path, hike-in-only campground."
     },
     {
         id: 3,
-        name:"Redux Woods Campground",
+        name:"Tiger Woods Daycare",
         image: "/assets/images/redux-woods.jpg",
         elevation: 42,
         featured: true,
-        description: "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
+        description: "You'll never want to leave this hidden gem, deep within the lush Tiger Woods."
     }
 ];
